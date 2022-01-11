@@ -1,0 +1,177 @@
+body {
+ font-family: "times new roman";
+ background-color: #e6f2ff;
+}
+
+.kop {
+ background-color: blue;
+ color: #FFFFFF;
+ padding: 10px;
+}
+
+li {
+ list-style: none;
+}
+
+li:hover {
+ color: #FFFFFF;
+ background-color: #0000CD;	
+}
+
+.header {
+ background-color: #87CEFA;
+ color: #FFFFFF;
+ height: 105px;
+}
+
+.header-logo1 img {
+ float: left;
+ border: 3px solid #0000CD;
+ border-radius: 5px;
+ margin-top: 10px;
+ margin-right: 10px;
+ margin-bottom: 10px;
+ margin-left: 20px;
+}
+
+.header-logo2 {
+ float: right;
+ font-size: 50px;
+ padding: 20px 20px;
+ background-color: red;
+ color: yellow;
+ border: 3px solid #0000CD;
+ border-radius: 10px;
+ margin-left: 3px;
+}
+
+.header-list li {
+ float: left;
+ font-size: 20px;
+ padding: 10px 10px;
+ border: 3px solid #0000CD;
+ border-radius: 15px;
+ margin-top: 30px;
+ margin-right: 5px;
+ margin-left: 10px;
+ background-color: #00BFFF;
+}
+
+.header-list li:hover {
+ background-color: red; 
+ font-size: 25px;
+ color: #FFFFFF;
+}
+
+.main {
+ background-color: #e6f2ff;
+ padding: 70px 50px;
+}
+
+.copy-container {
+ background-color: white;
+ font-size: 9px;
+}
+
+.section-title{
+ font-size: 17px;
+}
+
+.contents {
+ height: 200px;
+ background-color: white;
+}
+
+.contents-item {
+ float: left;
+ margin-right: 70px;
+}
+
+.contents-item img {
+ font-size: 24px;
+ border: 3px solid #C0C0C0;
+ border-radius: 10px;
+ height: 100px;
+ width: 100px;
+}
+
+.contents-item p {
+ font-size: 15px;
+ margin-top: 10px;
+ text-align: center;
+}
+
+.contents2{
+ background-color : white;
+ height:660px;
+}
+
+.contents-item2{
+ float: left;
+ width: 200px;
+ height: 200px;
+ margin-right: 100px;
+ margin-bottom: 100px;
+}
+
+.contents-item2 img {
+ border: 3px solid #C0C0C0;
+ border-radius: 20px;
+ height: 200px;
+ width: 200px;
+}
+ 
+.contents-item2 p {
+ text-align: center;
+ border: 3px solid blue;
+ border-radius: 25px;
+ background-color: red;
+ color:#FFFFFF;
+ width: 200px;
+ margin-right: 50px;
+ margin-top: 10px;
+ margin-bottom: 10px;
+}
+
+.contents-item2 p:hover{
+ background-color: #C2DFFF; 
+ color:#000000;
+}
+
+.contents3 {
+ background-color: white;
+ font-size: 17px;
+ padding-bottom: 10px;
+}
+
+.footer {
+ background-color: #2f5167;
+ color: #fff;
+ height: 70px;
+ padding: 2px;
+}
+
+.footer-logo {
+ font-size: 50px;
+ float: left;
+ margin-left: 5px;
+ margin-top: 8px;
+}
+
+.footer-list {
+ float: right;
+ margin-bottom: 10px;
+ margin-right: 10px;
+}
+
+.footer-list li {
+ margin-right: 5px;
+ padding: 3px;
+}
+
+.footer-cpy {
+ font-size: 18px;
+ text-align: center;
+ color: gold;
+ margin-top: 24px;
+}
